@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+7761,"{""Q0"":""19"",""Q1"":""Female""}",demographics,survey-text,2,39496,0.0-2.0,20625,low,NA,NA
+28135,removed for privacy,demographics,survey-text,3,67642,0.0-3.0,20625,low,NA,NA
+95301,"{""Q0"":""For the first section of the experiment I simply clicked 'claim outcome' most of the time as that made it more likely for me to collect more points.\nI didn't use any strategies other then weighing up which option may give me a greater likelihood based on the given chances to choose an orange ball.""}",comments,survey-text,111,1111266,0.0-109.0,20625,low,removed for privacy,5.5

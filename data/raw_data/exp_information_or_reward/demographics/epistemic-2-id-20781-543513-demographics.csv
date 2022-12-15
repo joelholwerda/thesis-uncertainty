@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+6325,"{""Q0"":""18"",""Q1"":""Female""}",demographics,survey-text,2,26211,0.0-2.0,20781,high,NA,NA
+61239,removed for privacy,demographics,survey-text,3,87456,0.0-3.0,20781,high,NA,NA
+81821,"{""Q0"":""After observing a few options, I realised that potential points were lost, and there is more chance of getting more points if you were to claim more of the options.""}",comments,survey-text,111,826709,0.0-109.0,20781,high,removed for privacy,5.5

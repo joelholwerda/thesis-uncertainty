@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+3973,"{""Q0"":""19"",""Q1"":""Male""}",demographics,survey-text,2,27200,0.0-2.0,21644,high,NA,NA
+12627,removed for privacy,demographics,survey-text,3,39832,0.0-3.0,21644,high,NA,NA
+23861,"{""Q0"":""If it was roughly 50/50, I would go for orange. If it was less, I would go for the random option""}",comments,survey-text,114,758600,0.0-109.0,21644,high,removed for privacy,3

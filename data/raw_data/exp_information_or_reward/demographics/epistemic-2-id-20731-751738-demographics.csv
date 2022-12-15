@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+14344,"{""Q0"":""19"",""Q1"":""Male""}",demographics,survey-text,2,38666,0.0-2.0,20731,low,NA,NA
+11892,removed for privacy,demographics,survey-text,3,50577,0.0-3.0,20731,low,NA,NA
+5190,"{""Q0"":""""}",comments,survey-text,114,1076809,0.0-109.0,20731,low,removed for privacy,5

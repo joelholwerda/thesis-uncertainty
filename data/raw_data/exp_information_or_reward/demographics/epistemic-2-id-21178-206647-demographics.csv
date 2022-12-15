@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+8819,"{""Q0"":""19"",""Q1"":""Female""}",demographics,survey-text,2,1067137,0.0-2.0,21178,high,NA,NA
+104374,removed for privacy,demographics,survey-text,3,1171531,0.0-3.0,21178,high,NA,NA
+77105,"{""Q0"":""if you choose claim you would get whatever points no matter how little, so i mostly choose claim. Because it's better to get less points by claiming than getting no points by not claiming. ""}",comments,survey-text,129,2776871,0.0-109.0,21178,high,removed for privacy,4.5

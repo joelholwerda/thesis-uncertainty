@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+6056,"{""Q0"":""18"",""Q1"":""m""}",demographics,survey-text,2,17734,0.0-2.0,20902,low,NA,NA
+16810,removed for privacy,demographics,survey-text,3,34554,0.0-3.0,20902,low,NA,NA
+31902,"{""Q0"":""I was using the strategy of that knowing what chance i have is better than not knowing. in the second section.""}",comments,survey-text,111,934441,0.0-109.0,20902,low,removed for privacy,4.5

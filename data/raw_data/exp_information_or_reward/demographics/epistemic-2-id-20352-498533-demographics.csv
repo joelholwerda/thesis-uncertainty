@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+5409,"{""Q0"":""18"",""Q1"":""Male""}",demographics,survey-text,2,304421,0.0-2.0,20352,low,NA,NA
+10835,removed for privacy,demographics,survey-text,3,315264,0.0-3.0,20352,low,NA,NA
+32620,"{""Q0"":""I thought it would be better to claim than to observe because every point counts :)""}",comments,survey-text,111,1494743,0.0-109.0,20352,low,removed for privacy,4.5

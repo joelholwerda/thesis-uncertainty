@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+6806,"{""Q0"":""21"",""Q1"":""female""}",demographics,survey-text,2,126150,0.0-2.0,20614,high,NA,NA
+442789,removed for privacy,demographics,survey-text,3,568949,0.0-3.0,20614,high,NA,NA
+42538,"{""Q0"":""I chose a mixture of balls I thought were pretty and what I gathered from the observations. ""}",comments,survey-text,111,1640462,0.0-109.0,20614,high,removed for privacy,4.5

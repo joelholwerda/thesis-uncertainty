@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+6449,"{""Q0"":""19"",""Q1"":""female""}",demographics,survey-text,2,42490,0.0-2.0,21596,high,NA,NA
+13231,removed for privacy,demographics,survey-text,3,55727,0.0-3.0,21596,high,NA,NA
+44524,"{""Q0"":""i tried to use some strategies of chance and probability but it was hard since everything seemed somewhat randomised""}",comments,survey-text,117,1170521,0.0-109.0,21596,high,removed for privacy,4

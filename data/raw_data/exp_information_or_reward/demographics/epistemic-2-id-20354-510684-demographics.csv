@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+3863,"{""Q0"":""20"",""Q1"":""Male""}",demographics,survey-text,2,14442,0.0-2.0,20354,low,NA,NA
+119695,removed for privacy,demographics,survey-text,3,134146,0.0-3.0,20354,low,NA,NA
+13433,"{""Q0"":""Stick with one option""}",comments,survey-text,111,777034,0.0-109.0,20354,low,removed for privacy,5

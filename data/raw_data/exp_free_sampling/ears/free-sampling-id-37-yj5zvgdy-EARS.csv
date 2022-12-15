@@ -1,0 +1,7 @@
+"round_number","sampling_type","stimulus","stimulus_colour","rt","Q0","Q1","Q2","Q3","questions","trial_type","trial_index","time_elapsed","internal_node_id","participant","randomID","condition"
+"2","fixed","purple-183","purple","27774","3","3","4","2","0,2,3,1","survey-likert","33","442982","0.0-5.0-2.0-0.0","37","yj5zvgdy","low"
+"3","free","yellow-144","yellow","8686","3","3","3","3","0,2,3,1","survey-likert","45","474893","0.0-5.0-2.1-0.1","37","yj5zvgdy","low"
+"4","fixed","blue-66","blue","13487","2","5","5","2","0,2,3,1","survey-likert","57","503790","0.0-5.0-2.2-0.2","37","yj5zvgdy","low"
+"5","free","red-16","red","9030","3","4","3","3","0,2,3,1","survey-likert","63","522653","0.0-5.0-2.3-0.3","37","yj5zvgdy","low"
+"6","fixed","green-173","green","13390","2","4","4","3","0,2,3,1","survey-likert","70","548069","0.0-5.0-2.4-0.4","37","yj5zvgdy","low"
+"7","free","orange-120","orange","13502","2","4","4","2","0,2,3,1","survey-likert","73","568429","0.0-5.0-2.5-0.5","37","yj5zvgdy","low"

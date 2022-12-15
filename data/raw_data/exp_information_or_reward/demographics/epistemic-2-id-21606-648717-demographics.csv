@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+4434,"{""Q0"":""21"",""Q1"":""Female""}",demographics,survey-text,2,64222,0.0-2.0,21606,high,NA,NA
+9747,removed for privacy,demographics,survey-text,3,73995,0.0-3.0,21606,high,NA,NA
+55098,"{""Q0"":""I just thought that if the chance of getting an orange ball was less than 50% then I probably shouldn't choose that choice. However, the choice on the right could have had an orange ball chance of, e.g. 2%!!""}",comments,survey-text,111,776045,0.0-109.0,21606,high,removed for privacy,5.5

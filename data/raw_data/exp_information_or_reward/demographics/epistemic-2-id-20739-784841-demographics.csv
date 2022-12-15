@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+7487,"{""Q0"":""19"",""Q1"":""Female""}",demographics,survey-text,2,540094,0.0-2.0,20739,low,NA,NA
+44795,removed for privacy,demographics,survey-text,3,584895,0.0-3.0,20739,low,NA,NA
+112062,"{""Q0"":""Wasn't too sure in the first task (deciding which ball and then whether to look or claim) if there were points that were deductable. For example, -33 points.""}",comments,survey-text,111,1625950,0.0-109.0,20739,low,removed for privacy,5.5

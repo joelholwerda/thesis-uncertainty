@@ -1,0 +1,3 @@
+"rt","stimulus","Q0","Q1","Q2","Q3","Q4","Q5","Q6","Q7","Q8","Q9","questions","risky","colour","side","trial_type","trial_index","time_elapsed","internal_node_id","participant","condition"
+"44170","red-141","4","1","1","1","5","2","2","1","5","5","0,6,8,5,2,7,9,4,1,3","risky","red","right","survey-likert","107","834710","0.0-106.0-0.0","20714","low"
+"21719","blue-60","5","2","2","2","5","2","1","1","5","5","0,6,8,5,2,7,9,4,1,3","safe","blue","left","survey-likert","108","857638","0.0-106.0-0.1","20714","low"

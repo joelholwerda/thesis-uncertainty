@@ -1,0 +1,5 @@
+"rt","Q0","Q1","Q2","Q3","Q4","set","risky","colour","trial_type","trial_index","time_elapsed","internal_node_id","participant","condition"
+"28907","2","2","4","2","3","A","safe","blue","survey-likert","114","372440","0.0-5.0-0.0","26","low"
+"22716","3","3","4","2","2","B","safe","blue","survey-likert","115","395159","0.0-5.0-1.0","26","low"
+"12708","6","6","6","6","1","A","risky","red","survey-likert","116","407870","0.0-5.0-0.1","26","low"
+"9693","5","2","2","2","3","B","risky","red","survey-likert","117","417565","0.0-5.0-1.1","26","low"

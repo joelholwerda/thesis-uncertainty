@@ -1,0 +1,7 @@
+"round_number","sampling_type","mean","safe_value","choice","stimulus","stimulus_colour","rt","trial_type","trial_index","time_elapsed","internal_node_id","participant","randomID","condition"
+"1","fixed","19","-1","2","purple-39","purple","6599","choice-task","31","664410","0.0-5.0-1.0-0.0","27","g8cs2qqn","high"
+"2","free","35","55","1","yellow-84","yellow","2958","choice-task","54","736266","0.0-5.0-1.1-0.1","27","g8cs2qqn","high"
+"3","fixed","97","117","1","orange-163","orange","1734","choice-task","61","761536","0.0-5.0-1.2-0.2","27","g8cs2qqn","high"
+"4","free","77","57","2","green-18","green","2069","choice-task","79","800456","0.0-5.0-1.3-0.3","27","g8cs2qqn","high"
+"5","fixed","114","114","2","blue-173","blue","2270","choice-task","101","849400","0.0-5.0-1.4-0.4","27","g8cs2qqn","high"
+"6","free","57","57","1","red-63","red","2229","choice-task","104","867294","0.0-5.0-1.5-0.5","27","g8cs2qqn","high"

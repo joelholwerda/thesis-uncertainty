@@ -1,0 +1,7 @@
+round_number,sampling_type,stimulus,stimulus_colour,rt,Q0,Q1,Q2,Q3,questions,trial_type,trial_index,time_elapsed,internal_node_id,participant,randomID,condition
+2,fixed,orange-110,orange,81351,5,5,1,1,"0,1,2,3",survey-likert,12,464457,0.0-5.0-2.0-0.0,12,xgjcd4ca,high
+3,free,purple-104,purple,22073,5,5,1,1,"0,1,2,3",survey-likert,25,544504,0.0-5.0-2.1-0.1,12,xgjcd4ca,high
+4,fixed,yellow-63,yellow,47611,5,4,1,1,"0,1,2,3",survey-likert,47,655592,0.0-5.0-2.2-0.2,12,xgjcd4ca,high
+5,free,red-23,red,20585,1,1,5,5,"0,1,2,3",survey-likert,96,789685,0.0-5.0-2.3-0.3,12,xgjcd4ca,high
+6,fixed,blue-156,blue,43879,4,4,2,2,"0,1,2,3",survey-likert,108,885553,0.0-5.0-2.4-0.4,12,xgjcd4ca,high
+7,free,green-140,green,15527,5,5,1,1,"0,1,2,3",survey-likert,148,985600,0.0-5.0-2.5-0.5,12,xgjcd4ca,high

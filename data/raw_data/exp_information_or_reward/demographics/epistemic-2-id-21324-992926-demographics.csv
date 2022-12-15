@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+9540,"{""Q0"":""18"",""Q1"":""Female""}",demographics,survey-text,2,34208,0.0-2.0,21324,high,NA,NA
+23909,removed for privacy,demographics,survey-text,3,58129,0.0-3.0,21324,high,NA,NA
+36761,"{""Q0"":""Instructions were clear. Made my decision on highest probability but also risk decision making. ""}",comments,survey-text,117,1032709,0.0-109.0,21324,high,removed for privacy,4

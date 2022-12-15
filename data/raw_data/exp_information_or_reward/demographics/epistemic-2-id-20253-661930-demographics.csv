@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+4159,"{""Q0"":""22"",""Q1"":""male""}",demographics,survey-text,2,61057,0.0-2.0,20253,high,NA,NA
+8969,removed for privacy,demographics,survey-text,3,70037,0.0-3.0,20253,high,NA,NA
+151519,"{""Q0"":""I tried to use the color of the ball to determine the points.\nFor example, I checked the blue ball was lower than 50 points, however, the red ball was higher than 50 points, so I will tend to choose a red ball instead of a blue ball.""}",comments,survey-text,111,1153653,0.0-109.0,20253,high,removed for privacy,5

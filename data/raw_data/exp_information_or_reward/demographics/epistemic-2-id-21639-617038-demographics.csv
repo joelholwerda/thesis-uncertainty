@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+7700,"{""Q0"":""19"",""Q1"":""Male""}",demographics,survey-text,2,164640,0.0-2.0,21639,high,NA,NA
+28588,removed for privacy,demographics,survey-text,3,193233,0.0-3.0,21639,high,NA,NA
+216854,"{""Q0"":""When the chances of getting an orange ball dropped below 50%, I ended up picking the randomized box hoping the orange ball chance was higher. But when the left box was 50/50, the randomized box didn't appeal to me because it was too uncertain. ""}",comments,survey-text,111,1582015,0.0-109.0,21639,high,removed for privacy,4.5

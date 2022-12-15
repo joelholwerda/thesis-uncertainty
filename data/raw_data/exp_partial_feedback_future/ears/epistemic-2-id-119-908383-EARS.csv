@@ -1,0 +1,3 @@
+rt,Q0,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,stimulus,questions,risky,colour,side,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition
+116188,5,4,2,4,4,3,4,1,3,4,red-50,"9,5,1,8,3,4,0,7,2,6",safe,red,left,survey-likert,123,1073562,0.0-4.0-0.0,119,low
+51507,2,2,4,1,4,2,2,2,3,3,blue-174,"9,5,1,8,3,4,0,7,2,6",risky,blue,right,survey-likert,124,1127072,0.0-4.0-0.1,119,low

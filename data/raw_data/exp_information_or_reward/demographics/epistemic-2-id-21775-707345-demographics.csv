@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+7707,"{""Q0"":""21"",""Q1"":""male""}",demographics,survey-text,2,43759,0.0-2.0,21775,high,NA,NA
+42352,removed for privacy,demographics,survey-text,3,86117,0.0-3.0,21775,high,NA,NA
+64277,"{""Q0"":""The 1st experiment I essentially observed 2 to 3 and that influenced my strategy for the next 10 or so moves. the 2nd one I used logic to find the best chance of winning""}",comments,survey-text,111,972349,0.0-109.0,21775,high,removed for privacy,4.5

@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+7023,"{""Q0"":""28"",""Q1"":""Female""}",demographics,survey-text,2,27340,0.0-2.0,20178,high,NA,NA
+6826,removed for privacy,demographics,survey-text,3,34169,0.0-3.0,20178,high,NA,NA
+102398,"{""Q0"":""I used the first 10 choices to try to figure out a pattern that was being displayed and took note of what points I received for my selection. It seemed that the blue gave a random number of points either higher (above 75) or lower (below 40) while the red gave an even 45-55 points every time so I decided to select red instead of gambling on blue.\n\nFor the second game if that chance was over 60% I selected the higher probability, if it was 55% or lower I chose the unknown as I figured the chance of not getting an orange ball was high enough to take the risk anyway.""}",comments,survey-text,111,969997,0.0-109.0,20178,high,removed for privacy,5

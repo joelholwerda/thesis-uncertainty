@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+8987,"{""Q0"":""19"",""Q1"":""Female""}",demographics,survey-text,2,34204,0.0-2.0,20334,low,NA,NA
+16391,removed for privacy,demographics,survey-text,3,50600,0.0-3.0,20334,low,NA,NA
+47824,"{""Q0"":""I found the first game confusing, but now after doing it i think i could have done it better""}",comments,survey-text,111,1019735,0.0-109.0,20334,low,removed for privacy,4

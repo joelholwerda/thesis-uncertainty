@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+8967,"{""Q0"":""22"",""Q1"":""Femme""}",demographics,survey-text,2,20609,0.0-2.0,21389,high,NA,NA
+23545,removed for privacy,demographics,survey-text,3,44166,0.0-3.0,21389,high,NA,NA
+44772,"{""Q0"":""Not particularly, for the chance (orange/purple balls) one just pick random as even with he numbers given it is still chance.""}",comments,survey-text,111,776077,0.0-109.0,21389,high,removed for privacy,5.5

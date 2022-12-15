@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+10626,"{""Q0"":""17"",""Q1"":""Female""}",demographics,survey-text,2,96771,0.0-2.0,21523,high,NA,NA
+47628,removed for privacy,demographics,survey-text,3,144404,0.0-3.0,21523,high,NA,NA
+66292,"{""Q0"":""If the ratio of orange to purple balls in the known box were reasonably close, then I picked it. If there were significantly more purple balls than orange balls, I picked the unknown box. ""}",comments,survey-text,111,1181150,0.0-109.0,21523,high,removed for privacy,4.5

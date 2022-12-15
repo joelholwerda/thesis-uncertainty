@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+25843,"{""Q0"":""21"",""Q1"":""Cis female""}",demographics,survey-text,2,50406,0.0-2.0,20212,high,NA,NA
+8333,removed for privacy,demographics,survey-text,3,58750,0.0-3.0,20212,high,NA,NA
+131871,"{""Q0"":""Was confusing at first, but when studying Psychology as a bachelor, it reminded me about a process studies when looking at gambling addictions and probability; more specifically the extent to which people gamble on chance and how much excitement is thrived on when receiving that reward 1/100 times. ""}",comments,survey-text,111,1112335,0.0-109.0,20212,high,removed for privacy,3.5

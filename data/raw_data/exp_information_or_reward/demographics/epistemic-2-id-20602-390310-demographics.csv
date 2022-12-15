@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+5699,"{""Q0"":""18"",""Q1"":""Female""}",demographics,survey-text,2,27549,0.0-2.0,20602,high,NA,NA
+96103,removed for privacy,demographics,survey-text,3,123659,0.0-3.0,20602,high,NA,NA
+115866,"{""Q0"":""At first i thought the points were based on colour, however this theory was quickly revoked as it was shown against this. I then thought it may be involved with the texture of the ball, however remained inconclusive about what the real pattern (if any) was. ""}",comments,survey-text,111,1130725,0.0-109.0,20602,high,removed for privacy,5

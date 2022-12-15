@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+7939,"{""Q0"":""17"",""Q1"":""female""}",demographics,survey-text,2,24594,0.0-2.0,20342,low,NA,NA
+92716,removed for privacy,demographics,survey-text,3,117320,0.0-3.0,20342,low,NA,NA
+47630,"{""Q0"":""I would only choose the unknown distribution of balls if the other option would have under 50% of orange balls""}",comments,survey-text,111,968972,0.0-109.0,20342,low,removed for privacy,4.5

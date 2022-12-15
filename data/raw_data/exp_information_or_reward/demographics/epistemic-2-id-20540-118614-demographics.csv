@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+10944,"{""Q0"":""18"",""Q1"":""female""}",demographics,survey-text,2,25050,0.0-2.0,20540,high,NA,NA
+554618,removed for privacy,demographics,survey-text,3,579682,0.0-3.0,20540,high,NA,NA
+59563,"{""Q0"":""the scrolling down didnt work and wouldn't hold, the tab would slide all the way up making it  hard to access the last 2 questions and the next button ""}",comments,survey-text,111,1728141,0.0-109.0,20540,high,removed for privacy,5

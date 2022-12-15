@@ -1,0 +1,2 @@
+choice,probWin,rt,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition
+"[""unknown"",""known"",""known"",""unknown""]","[50,70,60,55]","[22233,21329,9010,8141]",ellsberg-task,117,1154060,0.0-6.0,120,high

@@ -1,0 +1,4 @@
+rt,responses,task,trial_type,trial_index,time_elapsed,internal_node_id,participant,condition,paypal,prize
+6190,"{""Q0"":""19"",""Q1"":""Female""}",demographics,survey-text,2,230485,0.0-2.0,20237,low,NA,NA
+129470,removed for privacy,demographics,survey-text,3,359964,0.0-3.0,20237,low,NA,NA
+103676,"{""Q0"":""There was an attempt to figure out a pattern at first, then I reasoned that the more 'observe outcome' buttons I chose, the less chances there would be to earn any amount of points. So I tried to give somewhat equal amounts of choices to both the red and blue balls. \n\nWith the orange and purple boxes, I chose boxes that had higher chances of picking up an orange. When the chances were close to 1/2 I'd gamble on the random box. ""}",comments,survey-text,111,1221801,0.0-109.0,20237,low,removed for privacy,5

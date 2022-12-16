@@ -1,4 +1,5 @@
-# Experiments
+# Experiments ------------------------------------------------------------------
+
 # 7a. `exp_partial_feedback_past`: Examined the influence of stimulus variability on choices with the EARS referring to past choices
 # 7b. `exp_partial_feedback_future`: Examined the influence of stimulus variability on choices with the EARS referring to a specific future choice
 # 8. `exp_information_or_reward`: Examined the influence of stimulus variability on whether participants chose to observe or claim the outcome of their choices

@@ -1,4 +1,5 @@
-# Experiments
+# Experiments ------------------------------------------------------------------
+
 # 7a. `exp_partial_feedback_past`: Examined the influence of stimulus variability on choices with the EARS referring to past choices
 # 7b. `exp_partial_feedback_future`: Examined the influence of stimulus variability on choices with the EARS referring to a specific future choice
 # 8. `exp_information_or_reward`: Examined the influence of stimulus variability on whether participants chose to observe or claim the outcome of their choices
@@ -923,7 +924,7 @@ exp_free_sampling$models$ears <- brm(
   warmup = ifelse(getOption("quick_version"), 1000, 2000),
   iter = ifelse(getOption("quick_version"), 3000, floor(45000 / chains) + 2000),
   file = save_model("ears", "exp_free_sampling"),
-  control = list(adapt_delta = 0.99),
+  control = list(adapt_delta = 0.995),
   init = 0,
   cores = cores, 
   chains = chains,
@@ -1018,7 +1019,7 @@ exp_free_sampling$models$sampling_condition <- brm(
   warmup = ifelse(getOption("quick_version"), 1000, 2000),
   iter = ifelse(getOption("quick_version"), 3000, floor(20000 / chains) + 2000),
   file = save_model("sampling_condition", "exp_free_sampling"),
-  control = list(adapt_delta = 0.99),
+  control = list(adapt_delta = 0.995),
   cores = cores, 
   chains = chains,
   stanvars = stanvars,
@@ -1073,7 +1074,7 @@ exp_free_sampling$models$sampling_epistemic <- brm(
   warmup = ifelse(getOption("quick_version"), 1000, 2000),
   iter = ifelse(getOption("quick_version"), 3000, floor(20000 / chains) + 2000),
   file = save_model("sampling_epistemic", "exp_free_sampling"),
-  control = list(adapt_delta = 0.99),
+  control = list(adapt_delta = 0.995),
   cores = cores, 
   chains = chains,
   stanvars = stanvars,
@@ -1220,7 +1221,7 @@ exp_combined$models$ears <- brm(
   warmup = ifelse(getOption("quick_version"), 1000, 2000),
   iter = ifelse(getOption("quick_version"), 3000, floor(45000 / chains) + 2000),
   file = save_model("ears", "exp_combined"),
-  control = list(adapt_delta = 0.99),
+  control = list(adapt_delta = 0.995),
   init = 0,
   cores = cores, 
   chains = chains,

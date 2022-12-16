@@ -1,11 +1,9 @@
-# Experiments
+# Experiments ------------------------------------------------------------------
+
 # 7a. `exp_partial_feedback_past`: Examined the influence of stimulus variability on choices with the EARS referring to past choices
 # 7b. `exp_partial_feedback_future`: Examined the influence of stimulus variability on choices with the EARS referring to a specific future choice
 # 8. `exp_information_or_reward`: Examined the influence of stimulus variability on whether participants chose to observe or claim the outcome of their choices
 # 9. exp_free_sampling: Examined the influence of stimulus variability the number of outcomes participants chose to observe before making a consequential choice
-
-# Data wrangling
-# The experiment info files allow the functions to import and wrangle the data automatically. Changing their naming structure might break the wrangling functions. Additional experiments would require creating additional info files.
 
 # Setup ------------------------------------------------------------------------
 

@@ -9,7 +9,7 @@ In this repository, you can find the analysis code for the experiments in Chapte
 
 ## Getting started
 
-The easiest way to access the analysis code is downloading the `.zip` file. To do this: 
+The easiest way to access the analysis code is downloading the `.zip` file. To do this:
 
 1. Click the "Code" button and then click the "Download ZIP" option
 2. This will download a `.zip` file containing the code to your computer
@@ -20,13 +20,13 @@ Alternatively, you can open the Terminal or Command Prompt, navigate to the fold
 ## Running the analysis
 
 1. Open the `00_open_project.Rproj` file. This opens a new session in RStudio and sets the working directory to the correct location
-2. Open the `01_wrangle_data.R` file. This wrangles the raw data and outputs `.csv` files loaded in the subsequent models and figures. 
+2. Open the `01_wrangle_data.R` file. This wrangles the raw data and outputs `.csv` files loaded in the subsequent models and figures.
 3. Click the "Source" button to run the entire script or highlight sections and press Cmd + Enter
-4. Open and run the `02_model_data.R` file. This uses [brms](https://paul-buerkner.github.io/brms/) to fit the Bayesian models and test the reported hypotheses. Some of these models take several minutes to run. See the "Options" section below for ways to speed up this process 
+4. Open and run the `02_model_data.R` file. This uses [brms](https://paul-buerkner.github.io/brms/) to fit the Bayesian models and test the reported hypotheses. Some of these models take several minutes to run. See the "Options" section below for ways to speed up this process
 5. Open and run the `03_create_figures.R` file. This creates the figures and saves them as `.pdf` files in the `output/figures` folder
 6. Open and run the `04_alternate_models.R` file. This includes numerous other models that could have been used to analyse our results and examines whether our conclusions were contingent on the reported models
 
-RStudio might prompt you to install missing packages. Alternatively, you can run the following code: `install.packages("tidyverse", "lubridate", "forcats", "R.matlab", "jsonlite", "standardize", "rlang", "here", "parallel", "brms", "bayestestR", "tidybayes", "bayesplot", "ggridges", "ggstance", "scales", "cowplot", "ggtext", "ggh4x")`
+The `renv` package is used for dependency management. `01_wrangle_data.R` calls `renv::restore()` to install the correct version of each package listed in the `renv.lock` file. More information about the `renv` package can be found [here](https://rstudio.github.io/renv/articles/renv.html).
 
 ## Options
 
@@ -48,4 +48,3 @@ You can change the following options in the `02_model_data.R` file:
 ## Get help
 
 If you have trouble running the code in this repository or have questions, contact me at joeldavidholwerda@gmail.com.
-
